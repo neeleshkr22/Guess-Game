@@ -4,9 +4,6 @@
   <img src="https://i.imgur.com/.gif" alt="Demo" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/crates/d/hangdev?color=C04000" />
-</p>
 
 ## Description
 
@@ -48,5 +45,5 @@ Watch the gameplay in action: [Gameplay Demo](https://your-video-link.com)
 1. Clone the repository:
    ```bash
    git clone https://github.com/neeleshkr22/Guess-Game.git
-   cd guess-word
+   cd Guess-Game
 
