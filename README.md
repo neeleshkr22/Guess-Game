@@ -1,7 +1,7 @@
 ﻿# Guess Word: A CLI Game Made with JavaScript
 
 <p align="center">
-  <img src="https://i.imgur.com/.gif" alt="Demo" />
+  <img src="https://github.com/user-attachments/assets/e87ffbed-4af5-4f6b-b731-83fe1832c648" alt="Demo" />
 </p>
 
 
